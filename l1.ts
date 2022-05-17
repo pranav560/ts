@@ -1,9 +1,11 @@
 // ES5 -> ES6 -> ES7
-// Collectively we call ESNext
+// latest version  we call ESNext
 
-// Type safety -> TypeScript -> by microsoft
+//  to ensure Type safety  TypeScript  was introduced by by microsoft , it is just a layer above js.
+//after transpilation  ts get coverted to js 
 // Type safety only at compile time not at runtime
-
+// ts give warning when type changed after compile time, we can also proceed with type change on our risk.
+//in vscode (it chechs dynamically for errors)
 // TS does not run directly on the browser
 // TS is transpiled to JS -> transpilation
 
